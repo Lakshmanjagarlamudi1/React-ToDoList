@@ -1,3 +1,3 @@
 import { createContext } from "react";
 
-export default TodoContext = createContext();
+export const TodoContext = createContext();
